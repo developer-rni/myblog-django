@@ -115,3 +115,9 @@ dmypy.json
 
 # idea
 .idea/
+
+# django debug_toolbar
+/siteblog/static/debug_toolbar/
+
+# django ckeditor
+/siteblog/static/ckeditor/
