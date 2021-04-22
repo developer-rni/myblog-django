@@ -714,7 +714,7 @@ section.blog-post-area h4 span.author-name {
     font-size: 16px;
     font-weight: 500;
     margin-bottom: 20px;
-    margin-top: 50px;
+    margin-top: 20px;
     padding: 21px 25px;
     text-transform: uppercase;
 }
@@ -749,4 +749,12 @@ section.blog-post-area h4 span.author-name {
     font-family: Geometria;
     font-size: 15px;
     font-weight: 500;
+    margin-top: 10px;
+}
+.grid .portfolio-item img {
+    width: 100px;
+    height: auto;
+}
+.border-top.line {
+    border-top: 1px solid #40c4ff;
 }
