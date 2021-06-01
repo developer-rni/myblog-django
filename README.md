@@ -1,2 +1,2 @@
 # My blog
- My website-blog project (django freamwork)
+ My website-blog project (django framework)
